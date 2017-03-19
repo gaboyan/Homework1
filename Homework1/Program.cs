@@ -11,7 +11,7 @@ namespace HomeWork1
         //public int ardyunq;
         static void Main(string[] args)
         {
-            int Tarberak = 0; //ankap text, commiti hamar
+            int Tarberak = 0;
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Ընտրեք ֆունկցիան։");
             Console.WriteLine("1. Ֆակտորիալ");
